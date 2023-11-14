@@ -1,5 +1,5 @@
 # Javascript
-## Chai Aur JavaScript Learning Repository
+## Chai Aur JavaScript Learning Repository ☕
 Welcome to the Chai Aur JavaScript Learning Repository! This repository is a compilation of my learnings from the "Chai Aur JavaScript" YouTube channel playlist. Here, you will find code snippets, examples, and explanations related to various JavaScript concepts covered in the playlist.
 
 Overview

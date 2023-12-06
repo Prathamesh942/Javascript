@@ -17,3 +17,10 @@ The first character must not be a digit.
 */
 
 const g = 9.8;
+
+//There is a list of reserved words, which cannot be used as variable names because they are used by the language itself
+const a = 10;
+
+varwithoutletworks = 'value';
+
+

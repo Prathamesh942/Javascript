@@ -41,4 +41,6 @@ console.log(+apples + +oranges);
 // RIGHT SHIFT ( >> )
 // ZERO-FILL RIGHT SHIFT ( >>> )
 
+//comparison
+//equality check == for undefined and null is defined such that, without any conversions, they equal each other and don’t equal anything else. That’s why (2) null == 0 is false.
 
